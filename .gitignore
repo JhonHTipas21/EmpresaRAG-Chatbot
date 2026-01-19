@@ -1,1 +1,29 @@
-﻿[CONTENIDO DEL .gitignore BACKEND]
+﻿# Python/Backend
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+backend/chroma_data/
+backend/*.pyc
+backend/.env
+*.egg-info/
+
+# Node/Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Git
+.gitmodules
