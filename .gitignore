@@ -7,7 +7,7 @@ backend/*.pyc
 backend/.env
 *.egg-info/
 
-# Node/Frontend
+# Node/Frontend - MUY IMPORTANTE
 frontend/node_modules/
 frontend/.next/
 frontend/out/
@@ -15,15 +15,18 @@ frontend/.env.local
 frontend/.env.development.local
 frontend/.env.test.local
 frontend/.env.production.local
+frontend/npm-debug.log*
 
 # Logs
 *.log
-npm-debug.log*
 
 # OS
 .DS_Store
 Thumbs.db
+
+# IDEs
 .vscode/
+.idea/
 
 # Git
 .gitmodules
