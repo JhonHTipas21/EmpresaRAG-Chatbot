@@ -1,15 +1,13 @@
-```txt
 <div align="center">
 
 # 🤖 EmpresaRAG Chatbot
 
-```
-
-      🔎 RAG • 📄 Docs • 🤖 LLM • ⚡ FastAPI • 🌐 Next.js
-```
+🔎 RAG • 📄 Docs • 🤖 LLM • ⚡ FastAPI • 🌐 Next.js
 
 ### 💡 Chatbot Empresarial Inteligente con RAG  
-**Respuestas precisas basadas en documentos reales** | Sin alucinaciones | Listo para producción
+**Respuestas precisas basadas en documentos reales** · Sin alucinaciones · Listo para producción
+
+</div>
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -22,12 +20,16 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 
-[🚀 Demo](#-demo-visual) •
-[✨ Características](#-características-principales) •
-[🛠️ Stack](#%EF%B8%8F-stack-tecnológico) •
-[🏗️ Arquitectura](#%EF%B8%8F-arquitectura-del-sistema) •
-[🎯 Uso](#-cómo-usar) •
-[💬 Contacto](#-lets-connect)
+
+## 📌 Contenido
+
+- 🚀 [Demo](#demo-visual)
+- ✨ [Características](#características-principales)
+- 🛠️ [Stack Tecnológico](#stack-tecnológico)
+- 🏗️ [Arquitectura](#arquitectura-del-sistema)
+- 🎯 [Uso](#cómo-usar)
+- 💬 [Contacto](#lets-connect)
+
 
 </div>
 
