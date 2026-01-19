@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./backend
+    container_name: empresarag_backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend:/app
+      - chroma_data:/app/chroma_data
+    env_file:
+      - ./backend/.env
+    networks:
+      - empresarag_network
+
+  frontend:
+    build: ./frontend
+    container_name: empresarag_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - empresarag_network
+
+volumes:
+  chroma_data:
+
+networks:
+  empresarag_network:
+    driver: bridge

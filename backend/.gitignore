@@ -1,0 +1,105 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.pytest_cache/
+.coverage
+htmlcov/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.pypirc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+.vscode-settings.json
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+out/
+
+# Virtualenv
+pipenv/
+ENV/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Spyder
+.spyproject/
+.spyproject/
+
+# Rope project settings
+.ropeproject
+
+# mkdocs
+.site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyre
+.pyre/
+
+# FastAPI / Uvicorn logs
+logs/
+*.log
+
+# Chroma/FAISS vector DB (datos pesados)
+chroma/
+faiss_index/
+vector_store/
+
+# Datos locales
+data/
+uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# Entornos y secrets
+.env
+.env.*
+*.env.*
+!.env.example
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
