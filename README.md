@@ -141,49 +141,72 @@ EmpresaRAG utiliza **RAG (Retrieval-Augmented Generation)** para combinar:
 
 <table>
 <tr>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br/>Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" alt="Python"/><br/>
+Python
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" /><br/>TypeScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" alt="TypeScript"/><br/>
+TypeScript
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br/>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" alt="JavaScript"/><br/>
+JavaScript
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" /><br/>FastAPI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" alt="FastAPI"/><br/>
+FastAPI
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" /><br/>Next.js
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" alt="Next.js"/><br/>
+Next.js
 </td>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /><br/>React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" alt="React"/><br/>
+React
 </td>
+
 </tr>
 </table>
+
+---
 
 ### 🔧 IA / Backend
 
 <table>
 <tr>
+
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="44" height="44" alt="OpenAI" /><br/>OpenAI
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="44" alt="OpenAI"/><br/>
+OpenAI
 </td>
+
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/chromadb/chromadb-icon.svg" width="44" height="44" alt="ChromaDB" /><br/>ChromaDB
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/chromadb.svg" width="44" alt="ChromaDB"/><br/>
+ChromaDB
 </td>
+
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="DB" /><br/>DB / Storage
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL"/><br/>
+DB / Storage
 </td>
+
 <td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" /><br/>Docker
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" alt="Docker"/><br/>
+Docker
 </td>
+
 </tr>
 </table>
 
 </div>
 
----
 
 ## 📊 Análisis del Stack (estilo gráfico)
 
